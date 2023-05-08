@@ -1,0 +1,7 @@
+name: push-gethub-actions
+on:
+  push: 
+    branches:
+      - master
+
+  
