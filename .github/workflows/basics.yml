@@ -1,4 +1,4 @@
-name: push-gethub-actions
+name: push-github-actions
 on:
   push: 
     branches:
